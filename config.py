@@ -1,6 +1,6 @@
 customhost = "database-1.cgoduwld80nr.us-east-1.rds.amazonaws.com"
 customuser = "aws_user"
 custompass = "Bait3273"
-customdb = "database-1"
+customdb = "table"
 custombucket = "nicolechin-bucket22"
 customregion = "us-east-1"
