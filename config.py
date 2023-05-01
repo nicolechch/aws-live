@@ -1,6 +1,6 @@
 customhost = "employee.cgoduwld80nr.us-east-1.rds.amazonaws.com"
 customuser = "aws_user"
 custompass = "12345678"
-customdb = "employee"
+customdb = "wordpress"
 custombucket = "nicole-employee"
 customregion = "us-east-1"
